@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Projects\\android-lib-magick-studio\\android-lib-magick\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cmyk_sample.jpg",
+        "source": "C:\\Projects\\android-lib-magick-studio\\android-lib-magick\\build\\intermediates\\bundles\\debug\\res\\drawable\\cmyk_sample.jpg"
+    },
+    {
+        "merged": "C:\\Projects\\android-lib-magick-studio\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cmyk_sample.jpg",
+        "source": "C:\\Projects\\android-lib-magick-studio\\app\\build\\intermediates\\bundles\\debug\\res\\drawable\\cmyk_sample.jpg"
+    }
+]

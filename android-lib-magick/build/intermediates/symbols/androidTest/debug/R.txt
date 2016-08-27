@@ -1,0 +1,7 @@
+int drawable cmyk_sample 0x7f020000
+int drawable ic_launcher 0x7f020001
+int id ivSample 0x7f050000
+int id txtStatus 0x7f050001
+int layout main 0x7f030000
+int string app_name 0x7f040000
+int string hello 0x7f040001
