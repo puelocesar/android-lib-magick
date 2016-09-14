@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Projects\\android-lib-magick-studio\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
         "source": "C:\\Projects\\android-lib-magick-studio\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Projects\\android-lib-magick\\android-lib-magick\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "C:\\Projects\\android-lib-magick\\android-lib-magick\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
     }
 ]

@@ -1,1 +1,24 @@
-Android lib magick
+# android-lib-magick
+
+Open CMYK images in Android devices without problem.
+
+`IMPORTANT: this library use native code, so you may have problem on x86 based processors`
+
+
+To be clear the real creator of this library is [puelocesar](https://github.com/puelocesar), here I only prepare the project to run on Android Studio, configure and publish the project at jCenter.
+
+## How to use
+### Maven
+```xml
+<dependency>
+  <groupId>lib.magick.android</groupId>
+  <artifactId>android-lib-magick</artifactId>
+  <version>1.0</version>
+  <type>pom</type>
+</dependency>
+```
+
+### Gradle
+```json
+compile 'lib.magick.android:android-lib-magick:1.0'
+```

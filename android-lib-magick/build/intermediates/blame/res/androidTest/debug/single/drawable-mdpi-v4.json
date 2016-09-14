@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Projects\\android-lib-magick-studio\\android-lib-magick\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Projects\\android-lib-magick-studio\\android-lib-magick\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\android-lib-magick\\android-lib-magick\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Projects\\android-lib-magick\\android-lib-magick\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
     }
 ]
